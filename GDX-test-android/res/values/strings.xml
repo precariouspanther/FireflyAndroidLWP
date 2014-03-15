@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Panther Particle Test</string>
+    <string name="settings_generalTitle">Panther Particle Test Settings</string>
+    <string name="parameterTitle">Toggle</string>
+    <string name="parameterSummary">Toggle description</string>
+</resources>

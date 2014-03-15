@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+   <PreferenceCategory android:key="settings_general" android:title="@string/settings_generalTitle">
+      <CheckBoxPreference android:key="parameter"
+                     android:title="@string/parameterTitle"
+                     android:summary="@string/parameterSummary"
+                     android:defaultValue="true" />
+      <EditTextPreference android:title="Firefly Count" android:defaultValue="500" android:summary="Number of active fireflies" android:key="firefly_count"/>
+   </PreferenceCategory>
+</PreferenceScreen>
